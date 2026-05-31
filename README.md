@@ -20,3 +20,8 @@ Este projeto é uma implementação simples e funcional de um jogo de Snake. O j
 ## 🚀 Requisitos
 - Navegador Web (Chrome, Firefox, Edge, etc.) 🖥️
 - Não requer instalação, basta abrir o arquivo localmente. ✨
+
+## 👤 Alunos
+- Gabriel Costa
+- Gustavo Jaques
+- João Pedro da Cunha
