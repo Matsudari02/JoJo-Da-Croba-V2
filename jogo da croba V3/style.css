@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(145deg, #0a1f1a 0%, #0c2a1f 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', 'Courier New', monospace;
+    font-weight: bold;
+}
+
+canvas {
+    border-radius: 32px;
+    box-shadow: 0 20px 35px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.1);
+    display: block;
+}
+
+.info {
+    text-align: center;
+    margin-top: 8px;
+    color: #b3ffcf;
+    text-shadow: 0 2px 3px black;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
