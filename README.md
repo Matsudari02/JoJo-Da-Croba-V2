@@ -1,4 +1,4 @@
-# 🐍 Jogo da Croba V3
+# 🐍 Jogo da Croba V2
 
 Bem-vindo ao **Jogo da Croba V3**, uma versão divertida e interativa do clássico jogo da cobrinha (snake game) desenvolvida em JavaScript, HTML e CSS. 🎮
 
