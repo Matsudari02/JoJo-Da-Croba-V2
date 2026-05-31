@@ -1,6 +1,6 @@
 # 🐍 Jogo da Croba V2
 
-Bem-vindo ao **Jogo da Croba V3**, uma versão divertida e interativa do clássico jogo da cobrinha (snake game) desenvolvida em JavaScript, HTML e CSS. 🎮
+Bem-vindo ao **Jogo da Croba V2**, uma versão divertida e interativa do clássico jogo da cobrinha (snake game) desenvolvida em JavaScript, HTML e CSS. 🎮
 
 ## 📝 Descrição
 Este projeto é uma implementação simples e funcional de um jogo de Snake. O jogador controla uma "croba" que se move pelo tabuleiro, com o objetivo de consumir itens para crescer, evitando colisões com as paredes ou com o próprio corpo. 🍎
